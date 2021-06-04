@@ -1,0 +1,13 @@
+.userDetails:first-child {
+    margin-left: 0;
+}
+.userDetails {
+    width: 300px;
+    height: 250px;
+    margin: 3rem;
+}
+.user_image {
+    width: 60px;
+    margin:2rem auto;
+}
+
