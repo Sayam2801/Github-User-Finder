@@ -75,11 +75,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ### For deployment on Netlify server
 
-### 'netlify init'
+### `netlify init`
 
 This command is used to initialize the app in the Netlify domain. 
 
-### 'netlify deploy --prod'
+### `netlify deploy --prod`
 
 This command is used to deploy the app on the Netlify server.
 
